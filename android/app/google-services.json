@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "781284647189",
+    "project_id": "dashfit-uat",
+    "storage_bucket": "dashfit-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781284647189:android:537d52b3e7ccce8580091c",
+        "android_client_info": {
+          "package_name": "com.dashfit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781284647189-j7eljq0c04pde7ltckgobh9sltodqrtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrfSYr4QxZCx2KuVzYmjkV9_a0fnEA_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781284647189-j7eljq0c04pde7ltckgobh9sltodqrtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781284647189:android:bc1e5bf4a5a1d9b380091c",
+        "android_client_info": {
+          "package_name": "com.dashfit.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781284647189-j7eljq0c04pde7ltckgobh9sltodqrtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrfSYr4QxZCx2KuVzYmjkV9_a0fnEA_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781284647189-j7eljq0c04pde7ltckgobh9sltodqrtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
